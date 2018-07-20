@@ -1414,7 +1414,7 @@ h1, h2, h3, h4, h5, h6, figure {
   transition: all .2s ease-out;
 }
 .fh5co-nav-toggle i::before, .fh5co-nav-toggle i::after {
-  content: 'Hello';
+  content: '';
   width: 25px;
   height: 2px;
   background: #252525;

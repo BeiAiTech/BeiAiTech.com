@@ -1664,6 +1664,10 @@ h1, h2, h3, h4, h5, h6, figure {
   border-color: #d1c286;
 }
 
+.row {
+  align-items: center;
+}
+
 .row-pb-md {
   padding-bottom: 4em !important;
 }

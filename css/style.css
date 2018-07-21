@@ -1401,7 +1401,7 @@ h1, h2, h3, h4, h5, h6, figure {
   outline: none;
   border-bottom: none !important;
 }
-.fh5co-nav-toggle li {
+.fh5co-nav-toggle i {
   position: relative;
   display: inline-block;
   width: 25px;

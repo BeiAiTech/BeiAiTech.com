@@ -27,9 +27,9 @@
 		$('#page').prepend('<div id="fh5co-offcanvas" />');
 		$('#page').prepend('<a href="#" class="js-fh5co-nav-toggle fh5co-nav-toggle fh5co-nav-white"><i></i></a>');
 		// var clone1 = $('.menu-1 > ul').clone();
-		$('#fh5co-offcanvas').append('<li><a href="product.html">我们的产品</a></li>');
-		$('#fh5co-offcanvas').append('<li><a href="about.html">关于铂翡思</a></li>');
-		$('#fh5co-offcanvas').append('<li><a href="contact.html">联系我们</a></li>');
+		$('#fh5co-offcanvas').append('<li><a href="product.html" style="font-family: 微软雅黑; margin-bottom: 20px;">我们的产品</a></li>');
+		$('#fh5co-offcanvas').append('<li><a href="about.html" style="font-family: 微软雅黑; margin-bottom: 20px;">关于铂翡思</a></li>');
+		$('#fh5co-offcanvas').append('<li><a href="contact.html" style="font-family: 微软雅黑; margin-bottom: 20px;">联系我们</a></li>');
 		// var clone2 = $('.menu-2 > ul').clone();
 		// $('#fh5co-offcanvas').append(clone2);
 
